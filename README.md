@@ -39,7 +39,7 @@ This plugin allow a specific keymap to be configured. Just pass a keymap variabl
 ```
 opts = {
       keymap = "<leader>hy",
-    },
+},
 ```
 
 ## Development
