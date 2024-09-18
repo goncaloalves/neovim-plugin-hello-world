@@ -28,6 +28,8 @@ After installation, you can use the plugin by running the following command in N
 :HelloWorld
 ```
 
+Or use the default keymap: <leader>hw
+
 This will print "Hello from Neovim!" to the command line.
 
 ## Configuration
