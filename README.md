@@ -16,9 +16,7 @@ Add the following to your Neovim configuration:
 ```lua
 {
   "goncaloalves/neovim-plugin-hello-world",
-  config = function()
-    require("neovim-plugin-hello-world")
-  end,
+  opts={}
 }
 ```
 
