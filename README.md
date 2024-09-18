@@ -34,7 +34,13 @@ This will print "Hello from Neovim!" to the command line.
 
 ## Configuration
 
-This plugin doesn't require any additional configuration.
+This plugin allow a specific keymap to be configured. Just pass a keymap variable in the opts:
+
+```
+opts = {
+      keymap = "<leader>hy",
+    },
+```
 
 ## Development
 
