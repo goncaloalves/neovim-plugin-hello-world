@@ -1,6 +1,8 @@
 # neovim-plugin-hello-world
 
-A simple Neovim plugin that demonstrates how to create a basic "Hello World" functionality.
+A simple Neovim plugin that demonstrates how to create a basic "Hello World" functionality with a plugin in Neovim.
+
+Here is [my blog post](https://dev.to/iamgoncaloalves/how-i-developed-my-first-neovim-plugin-a-step-by-step-guide-1lcb) about how I developed this plugin.
 
 ## Features
 
